@@ -1,5 +1,3 @@
-# -Expense-Tracker-Personal-Finance-App
-
 <h1 align="center">💸 Expense Tracker — Personal Finance App</h1>
 
 <p align="center">
